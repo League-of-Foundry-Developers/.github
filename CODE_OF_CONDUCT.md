@@ -69,8 +69,9 @@ it by contacting any member(s) of the League leadership directly.
 
 Acknowledgements
 The League Code of Conduct is adapted from the [Django Code of Conduct][1], published
-by the Django Software Foundation, licensed for reuse under [Creative Commons
-Attribution 3.0 Unported][2].
+by the [Django Software Foundation][2], licensed for reuse under [Creative Commons
+Attribution 3.0 Unported][3].
 
 [1]: https://www.djangoproject.com/conduct/
-[2]: https://creativecommons.org/licenses/by/3.0/
+[2]: https://www.djangoproject.com/foundation/
+[3]: https://creativecommons.org/licenses/by/3.0/

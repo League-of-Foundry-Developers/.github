@@ -24,26 +24,26 @@ affect a person's ability to participate within them.
 If you believe someone is violating the code of conduct, we ask that you report
 it by contacting any member(s) of the League leadership directly.
 
-- Be friendly and patient.
-- Be welcoming. We strive to be a community that welcomes and supports people of
+- **Be friendly and patient.**
+- **Be welcoming.** We strive to be a community that welcomes and supports people of
   all backgrounds and identities. This includes, but is not limited to members
   of any race, ethnicity, culture, national origin, colour, immigration status,
   social and economic class, educational level, sex, sexual orientation, gender
   identity and expression, age, size, family status, political belief, religion,
   and mental and physical ability.
-- Be considerate. Your work will be used by other people, and you in turn will
+- **Be considerate.** Your work will be used by other people, and you in turn will
   depend on the work of others. Any decision you take will affect users and
   colleagues, and you should take those consequences into account when making
   decisions. Remember that we're a world-wide community, so you might not be
   communicating in someone else's primary language.
-- Be respectful. Not all of us will agree all the time, but disagreement is no
+- **Be respectful.** Not all of us will agree all the time, but disagreement is no
   excuse for poor behavior and poor manners. We might all experience some
   frustration now and then, but we cannot allow that frustration to turn into a
   personal attack. It’s important to remember that a community where people feel
   uncomfortable or threatened is not a productive one. Members of the League
   community should be respectful when dealing with other members as well as with
   people outside the League community.
-- Be careful in the words that you choose. We are a community of professionals,
+- **Be careful in the words that you choose.** We are a community of professionals,
   and we conduct ourselves professionally. Be kind to others. Do not insult or
   put down other participants. Harassment and other exclusionary behavior aren't
   acceptable. This includes, but is not limited to:
@@ -57,7 +57,7 @@ it by contacting any member(s) of the League leadership directly.
   - Advocating for, or encouraging, any of the above behavior.
   - Repeated harassment of others. In general, if someone asks you to stop,
     then stop.
-- When we disagree, try to understand why. Disagreements, both social and
+- **When we disagree, try to understand why.** Disagreements, both social and
   technical, happen all the time and the League is no exception. It is important
   that we resolve disagreements and differing views constructively. Remember
   that we’re different. The strength of the League comes from its varied
@@ -67,7 +67,8 @@ it by contacting any member(s) of the League leadership directly.
   err and blaming each other doesn’t get us anywhere. Instead, focus on helping
   to resolve issues and learning from mistakes.
 
-Acknowledgements
+## Acknowledgements
+
 The League Code of Conduct is adapted from the [Django Code of Conduct][1], published
 by the [Django Software Foundation][2], licensed for reuse under [Creative Commons
 Attribution 3.0 Unported][3].
